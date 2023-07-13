@@ -46,7 +46,7 @@ ojod versionon
 
 ```sh
 # Replace monikerName with your own nickname.
-ojod init monikerName --chain-id=bbn-test-2
+ojod init monikerName --chain-id=ojo-devnet
 
 # Genesis
 curl -Ls https://ss-t.ojo.nodestake.top/genesis.json > $HOME/.ojo/config/genesis.json 
